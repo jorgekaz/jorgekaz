@@ -28,16 +28,18 @@ My real interest is to develop and dedicate myself to work as a Full Stack Devel
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jorgekaz)](https://github.com/ryo-ma/github-profile-trophy)
+<h2>Statistics:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekaz)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/jorgekaz) 
+
+![GitHub metrics](https://metrics.lecoq.io/jorgekaz) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgekaz&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jorgekaz)  
-
-![GitHub metrics](https://metrics.lecoq.io/jorgekaz)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgekaz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jorgekaz)  
 
-![Profile views](https://gpvc.arturio.dev/jorgekaz)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jorgekaz)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jorgekaz) 
