@@ -19,11 +19,11 @@ My real interest is to develop and dedicate myself to work as a Full Stack Devel
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 <h2>Connect with me:</h2>
-</br>
-<a href="https://linkedin.com/in/jorgekaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgekaz" height="30" width="40" /></a>
-<a href="https://instagram.com/jorgekarp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgekarp" height="30" width="40" /></a>
-<a href="https://twitter.com/jorgekaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorgekaz" height="30" width="40" /></a>
-<a href="https://fb.com/jorgekaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jorgekaz" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/jorgekaz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgekaz" height="30" width="40" /></a>
+<a href="https://instagram.com/jorgekarp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgekarp" height="30" width="40" /></a>
+<a href="https://twitter.com/jorgekaz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorgekaz" height="30" width="40" /></a>
+<a href="https://fb.com/jorgekaz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jorgekaz" height="30" width="40" /></a>
 
 </br>
 
@@ -39,4 +39,4 @@ My real interest is to develop and dedicate myself to work as a Full Stack Devel
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jorgekaz)  
 
-![Profile views](https://gpvc.arturio.dev/jorgekaz)  
+![Profile views](https://gpvc.arturio.dev/jorgekaz)
