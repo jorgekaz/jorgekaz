@@ -1,6 +1,6 @@
-# Hi there 👋, My name is Jorge Karp
+<h1 style="text-align: center">Hello World 👋, My name is Jorge Karp</h1>
 
-<h2 align="center"> Full Stack Student </h1>
+<h2 style="text-align: center"> Full Stack Student </h2>
 
 </br>
 
@@ -8,8 +8,9 @@
 
 </br>
 
-<p align="center">I have a degree in English Teaching from the Higher Institute for Teacher Training N° 163. I am currently teaching in public schools and studying University Technician in Programming at UTN - Mar del Plata.
-My real interest is to develop and dedicate myself to work as a Full Stack Developer and / or Web Developer.</p>
+<p style="text-align: justify"> I have a degree in English Teaching from the Higher Institute for Teacher Training N° 163. I am currently teaching in public schools and studying University Technician in Programming at UTN - Mar del Plata.
+My real interest is to develop and dedicate myself to work as a Full Stack Developer and / or Web Developer.
+</p>
 
 <h2>Languages and Tools:</h2>
 
