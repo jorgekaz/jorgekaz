@@ -4,7 +4,7 @@
 
 </br>
 
-<div align="center"><img src="https://i.ibb.co/C6fkQsS/Portada-Linked-In.png"></a></div>
+<div align="center"><img src="https://i.postimg.cc/pVQXgw91/Portada-Linked-In.png"></a></div>
 
 </br>
 
