@@ -4,7 +4,7 @@
 
 </br>
 
-<div align="center"><img src=<a href="https://ibb.co/h28ndQJ"><img src="https://i.ibb.co/3Sh8F69/img-programacion-open-graph-900x400.jpg" alt="img-programacion-open-graph-900x400" border="0" /></a>></a></div>
+<div align="center"><img src="https://i.ibb.co/3Sh8F69/img-programacion-open-graph-900x400.jpg"/></div>
 
 </br>
 
